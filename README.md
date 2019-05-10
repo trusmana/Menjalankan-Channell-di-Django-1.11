@@ -1,9 +1,9 @@
 # Menjalankan-Channell-di-Django-1.11
 
 - Sumber dari:
-<a https://gearheart.io/blog/creating-a-chat-with-django-channels/ >Multi Chat</a>
+<a https://gearheart.io/blog/creating-a-chat-with-django-channels/ target="_blank">Multi Chat</a>
 - Web Kami:
-<a http://www.kspra.co.id>Aplikasi Web</a>
+<a http://www.kspra.co.id target="_blank">Aplikasi Web</a>
 
 1. Setelah Menjalankan VirtualEnv, jalan perintah:
 ```
