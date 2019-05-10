@@ -1,5 +1,10 @@
 # Menjalankan-Channell-di-Django-1.11
 
+- Sumber dari:
+<a https://gearheart.io/blog/creating-a-chat-with-django-channels/ >Multi Chat</a>
+- Web Kami:
+<a http://www.kspra.co.id>Aplikasi Web</a>
+
 1. Setelah Menjalankan VirtualEnv, jalan perintah:
 ```
 $pip install -r tedi_install.txt
